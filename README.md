@@ -13,7 +13,7 @@ Spring Boot
 2. Setup xampp server on your local machine and start the server
 3. Run the application
 4. explore login/register, logout and crud apis(While registering user , provide roles i.e ROLE_ADMIN, ROLE_USER)
-5. Please feel free to share if you encounter any difficulties.While not obligatory, your appreciation in the form of a star would be highly valued if you find the project beneficial or enjoyable.
+5. Please feel free to share queries if you encounter any difficulties.
 
 ### 🚀 More
 
